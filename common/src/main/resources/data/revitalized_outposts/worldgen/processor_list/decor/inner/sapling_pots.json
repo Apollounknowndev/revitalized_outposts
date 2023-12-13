@@ -1,0 +1,39 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:potted_spruce_sapling",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:potted_oak_sapling"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:spruce_trapdoor",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:oak_trapdoor",
+            "Properties": {
+              "facing": "west",
+              "half": "top"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

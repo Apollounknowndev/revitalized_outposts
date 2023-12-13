@@ -1,0 +1,236 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_large",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_small",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_large",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_small",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_large",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_small",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/checkerboard_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/stripes_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_large",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/diagonal_small",
+        "processors": "revitalized_outposts:decor/inner/carpet/cyan_and_gray"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/carpets/vex",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 9,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

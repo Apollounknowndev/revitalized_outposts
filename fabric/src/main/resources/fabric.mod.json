@@ -1,0 +1,33 @@
+{
+    "schemaVersion": 1,
+    "id": "revitalized_outposts",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/mod/revitalized-outposts/",
+        "sources": "https://github.com/CelestiumMC/revitalized_outposts"
+    },
+    "license": "${license}",
+    "icon": "assets/modid/${mod_id}.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "dev.worldgen.outposts.RevitalizedOutpostsFabric"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.14",
+        "fabric-api": "*",
+        "minecraft": "1.20.x",
+        "java": ">=17",
+        "lithostitched": "*"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}
+  

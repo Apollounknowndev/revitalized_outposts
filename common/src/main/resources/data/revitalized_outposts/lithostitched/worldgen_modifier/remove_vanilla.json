@@ -1,0 +1,13 @@
+{
+  "type": "lithostitched:remove_structures_from_structure_set",
+  "predicate": {
+    "type": "lithostitched:not",
+    "predicate": {
+      "type": "revitalized_outposts:vanilla_outposts_enabled"
+    }
+  },
+  "structure_set": "minecraft:pillager_outposts",
+  "structures": [
+    "minecraft:pillager_outpost"
+  ]
+}

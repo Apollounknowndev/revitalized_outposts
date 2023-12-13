@@ -1,0 +1,209 @@
+{
+  "fallback": "revitalized_outposts:decor",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/tent",
+        "processors": "revitalized_outposts:decor/outer/tent/white"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/tent",
+        "processors": "revitalized_outposts:decor/outer/tent/light_gray"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/tent",
+        "processors": "revitalized_outposts:decor/outer/tent/gray"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/tent",
+        "processors": "revitalized_outposts:decor/outer/tent/cyan"
+      }
+    },
+    {
+      "weight": 12,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/targets",
+        "processors": "revitalized_outposts:decor/outer/barrels"
+      }
+    },
+    {
+      "weight": 12,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/dummies",
+        "processors": "revitalized_outposts:decor/outer/barrels"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_iron_empty",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_iron_golem",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_iron_allays",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_wood_empty",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_wood_golem",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/cage_wood_allays",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wood",
+        "processors": "revitalized_outposts:decor/outer/wood/oak"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wood",
+        "processors": "revitalized_outposts:decor/outer/wood/birch"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wood",
+        "processors": "revitalized_outposts:decor/outer/wood/dark_oak"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/pumpkins",
+        "processors": "revitalized_outposts:decor/outer/pumpkins"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wool_pile",
+        "processors": "revitalized_outposts:decor/outer/wool_pile/white"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wool_pile",
+        "processors": "revitalized_outposts:decor/outer/wool_pile/light_gray"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wool_pile",
+        "processors": "revitalized_outposts:decor/outer/wool_pile/gray"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/wool_pile",
+        "processors": "revitalized_outposts:decor/outer/wool_pile/cyan"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/ore_pile",
+        "processors": "revitalized_outposts:decor/outer/stone"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/outer/lamppost",
+        "processors": "revitalized_outposts:road"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

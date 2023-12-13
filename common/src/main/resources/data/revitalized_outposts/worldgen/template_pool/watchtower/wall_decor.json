@@ -1,0 +1,146 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/banners_left",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/banners_right",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/barrels_left",
+        "processors": "revitalized_outposts:decor/inner/barrels"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/barrels_right",
+        "processors": "revitalized_outposts:decor/inner/barrels"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/bookshelves_left",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/bookshelves_right",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/drawer_left",
+        "processors": "revitalized_outposts:decor/inner/drawer"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/drawer_right",
+        "processors": "revitalized_outposts:decor/inner/drawer"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/fletching_left",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/fletching_right",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/shelves_left",
+        "processors": "revitalized_outposts:decor/inner/shelves"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/shelves_right",
+        "processors": "revitalized_outposts:decor/inner/shelves"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/azalea_plants",
+        "processors": "revitalized_outposts:decor/inner/azalea_plants"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/sapling_pots",
+        "processors": "revitalized_outposts:decor/inner/sapling_pots"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "revitalized_outposts:decor/inner/wall/torches",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 24,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

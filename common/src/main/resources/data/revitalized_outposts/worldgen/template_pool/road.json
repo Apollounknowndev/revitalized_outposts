@@ -1,0 +1,14 @@
+{
+  "fallback": "revitalized_outposts:road_terminator",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "revitalized_outposts:road",
+        "processors": "revitalized_outposts:road"
+      }
+    }
+  ]
+}
